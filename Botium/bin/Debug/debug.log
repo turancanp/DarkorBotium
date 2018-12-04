@@ -1,0 +1,28 @@
+[1203/150432.559:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150434.605:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/150436.624:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/150436.668:INFO:CONSOLE(0)] "Cross-origin plugin content from https://assets.bpsecure.com/bpid/bpid.swf?ts=0.15680400532146943 must have a visible size larger than 400 x 300 pixels, or it will be blocked. Invisible content is always blocked.", source: https://lp.darkorbit.com/frame? (0)
+[1203/150454.539:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/150455.326:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/150501.123:ERROR:shader_disk_cache.cc(257)] Failed to create shader cache entry: -2
+[1203/150520.110:ERROR:broker_win.cc(55)] Error reading broker pipe: Boru sonlandý. (0x6D)
+[1203/150520.111:ERROR:broker_win.cc(137)] Error sending sync broker message: Boru kapatýlýyor. (0xE8)
+[1203/150520.112:ERROR:broker_win.cc(137)] Error sending sync broker message: Boru kapatýlýyor. (0xE8)
+[1203/150740.166:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/150741.458:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/150747.720:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/150748.756:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/150755.516:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150755.675:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150755.751:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150755.757:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150755.760:WARNING:backend_impl.cc(1841)] Destroying invalid entry.
+[1203/150757.438:INFO:CONSOLE(0)] "Cross-origin plugin content from https://assets.bpsecure.com/bpid/bpid.swf?ts=0.6669239475802462 must have a visible size larger than 400 x 300 pixels, or it will be blocked. Invisible content is always blocked.", source: https://tr5.darkorbit.com/indexInternal.es?action=internalStart&prc=100 (0)
+[1203/150758.809:INFO:CONSOLE(208)] "[Facebook Pixel] - Duplicate Pixel ID: 1657406304546718.", source: https://darkorbit-22.bpsecure.com/js/scriptaculous/prototype.js?__cv=b96240995f0075a55546ed3038010100 (208)
+[1203/154749.996:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/154753.645:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/154755.551:INFO:CONSOLE(1)] "Uncaught ReferenceError: jQuery is not defined", source: https://tr.pilot.darkorbit.com/community/js/jquery.DOMWindow.js (1)
+[1203/154756.099:INFO:CONSOLE(1)] "Uncaught ReferenceError: BpEventStream is not defined", source: http://tr.pilot.darkorbit.com/community/? (1)
+[1203/154804.693:INFO:CONSOLE(208)] "[Facebook Pixel] - Duplicate Pixel ID: 1657406304546718.", source: https://darkorbit-22.bpsecure.com/js/scriptaculous/prototype.js?__cv=b96240995f0075a55546ed3038010100 (208)
+[1203/154806.927:INFO:CONSOLE(19)] "Uncaught TypeError: Cannot read property 'appendChild' of undefined", source: about:blank (19)
+[1203/154835.762:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://tr5.darkorbit.com/indexInternal.es?action=internalMapRevolution' was loaded over HTTPS, but requested an insecure plugin data 'http://eps.optimist.darkorbit.infinicast.io/crossdomain.xml'. This content should also be served over HTTPS.", source: https://tr5.darkorbit.com/indexInternal.es?action=internalMapRevolution (0)
