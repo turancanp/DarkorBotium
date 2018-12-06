@@ -74,6 +74,10 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="Selenium.WebDriverBackedSelenium, Version=3.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Selenium.WebDriverBackedSelenium.dll</HintPath>
+    </Reference>
     <Reference Include="SocketIoClientDotNet">
       <HintPath>bin\Debug\SocketIoClientDotNet.dll</HintPath>
     </Reference>
@@ -125,6 +129,12 @@
     <Compile Include="StartPage.Designer.cs">
       <DependentUpon>StartPage.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="GlobalSettings.resx">
+      <DependentUpon>GlobalSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NpcSetting.resx">
+      <DependentUpon>NpcSetting.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

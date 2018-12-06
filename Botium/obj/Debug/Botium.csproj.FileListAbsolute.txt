@@ -173,3 +173,6 @@ C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.csproj.CopyComple
 C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.exe
 C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.pdb
 C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.StartPage.resources
+C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.GlobalSettings.resources
+C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.NpcSetting.resources
+C:\Users\Can\Source\Repos\DarkorBotium\Botium\obj\Debug\Botium.csprojAssemblyReference.cache
